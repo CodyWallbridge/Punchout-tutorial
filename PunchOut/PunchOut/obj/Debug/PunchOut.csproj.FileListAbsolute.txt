@@ -1,0 +1,10 @@
+C:\Users\Cody\Documents\school\projects\PunchOut\PunchOut\bin\Debug\PunchOut.exe.config
+C:\Users\Cody\Documents\school\projects\PunchOut\PunchOut\bin\Debug\PunchOut.exe
+C:\Users\Cody\Documents\school\projects\PunchOut\PunchOut\bin\Debug\PunchOut.pdb
+C:\Users\Cody\Documents\school\projects\PunchOut\PunchOut\obj\Debug\PunchOut.csprojAssemblyReference.cache
+C:\Users\Cody\Documents\school\projects\PunchOut\PunchOut\obj\Debug\PunchOut.Form1.resources
+C:\Users\Cody\Documents\school\projects\PunchOut\PunchOut\obj\Debug\PunchOut.Properties.Resources.resources
+C:\Users\Cody\Documents\school\projects\PunchOut\PunchOut\obj\Debug\PunchOut.csproj.GenerateResource.cache
+C:\Users\Cody\Documents\school\projects\PunchOut\PunchOut\obj\Debug\PunchOut.csproj.CoreCompileInputs.cache
+C:\Users\Cody\Documents\school\projects\PunchOut\PunchOut\obj\Debug\PunchOut.exe
+C:\Users\Cody\Documents\school\projects\PunchOut\PunchOut\obj\Debug\PunchOut.pdb
